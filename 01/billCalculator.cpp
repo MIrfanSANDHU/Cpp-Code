@@ -20,7 +20,7 @@ int main ()               // main function from where execution starts
         {
             bill=units*7;
         }
-     else if(units>500)
+     else if(units>300)
         {
             bill=units*7;
         }
